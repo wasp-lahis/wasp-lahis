@@ -24,8 +24,8 @@ Atualmente, é pós-graduanda no Instituto de Computação da Unicamp, desenvolv
 - Sistemas Embarcados
 - Edge IA
 
-## 🔭 Latest Research Projects
-- Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN 
+## 🔭 Projetos de Pesquisa
+- ***Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN*** (2018-Atual)
   - Lahis Almeida and Juliana Borin. 2021. Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN. In Anais do V Workshop de Computação Urbana, agosto 16, 2021, Evento Online, Brasil. SBC, Porto Alegre, Brasil, 154-167.
 
 
