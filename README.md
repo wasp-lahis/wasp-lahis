@@ -24,10 +24,14 @@ Atualmente, é pós-graduanda no Instituto de Computação da Unicamp, desenvolv
 - Sistemas Embarcados
 - Edge IA
 
+## 🔭 Latest Research Projects
+- Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN 
+  - Lahis Almeida and Juliana Borin. 2021. Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN. In Anais do V Workshop de Computação Urbana, agosto 16, 2021, Evento Online, Brasil. SBC, Porto Alegre, Brasil, 154-167.
 
-##  :books: Conteúdos: Artigos e Projetos
 
-- [Artigos no Portal Embarcados](https://www.embarcados.com.br/author/wasp-lahis/)
+##  :books: Conteúdos: Artigos em Blogs e Projetos
+
+- [Artigos no Portal Embarcados](https://www.embarcados.com.br/desenvolvendo-aplicacoes-com-o-bluest-sdk-e-raspberry-pi/)
 - [Instagram de projetos](https://www.instagram.com/wasp.projects/)
 
 
