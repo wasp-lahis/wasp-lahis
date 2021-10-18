@@ -35,4 +35,4 @@ Atualmente, é pós-graduanda no Instituto de Computação da Unicamp, desenvolv
 - [Instagram de projetos](https://www.instagram.com/wasp.projects/)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahis-almeida-5805094b/)
