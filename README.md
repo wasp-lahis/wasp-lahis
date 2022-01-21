@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
 
-Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in IoT and LPWAN areas.
+Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRAWAN).
 
 
 ## ✨ Areas of Interest
