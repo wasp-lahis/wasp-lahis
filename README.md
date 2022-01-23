@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 -->
 
 
-## :dancer: About me
+## :woman_factory_worker: About me
 
 I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
 
 Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRAWAN), and I work at INDT as Embedded System Developer.
 
 
-## ✨ Areas of Interest
+## :female_detective: Areas of Interest
 
 - Internet of Things
 - Embedded Systems
