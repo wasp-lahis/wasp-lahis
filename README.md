@@ -40,3 +40,5 @@ Currently, I'm Master degree candidate at Unicamp Computer Institute, developing
 Please, let me know if you want to start a colaboration project with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahis-almeida-5805094b/)
+
+[![@lahis's Holopin board](https://holopin.me/lahis)](https://holopin.io/@lahis)
