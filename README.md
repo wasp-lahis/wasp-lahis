@@ -26,7 +26,7 @@ Currently, I'm Master degree candidate at Unicamp Computer Institute, developing
 - TinyML
 
 ## 🔭 Research Projects
-- [INDT] *** IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
+- [INDT] ***IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
   - Lahis Almeida at al. BTSYM'2023 - Brasilian Technology Symposium.
 - [UNICAMP] ***LoRaWAN Infrastructure for Urban Waste Management: a simulation study*** (2023)
   - L. Almeida, Marianna G. Campos and J. F. Borin. In proccedings of *9th World Forum on Internet of Things (WFIoT)*, Aveiro, Portugal. IEEE, 2023.
