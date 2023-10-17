@@ -21,17 +21,16 @@ Currently, I'm Master degree candidate at Unicamp Computer Institute, developing
 ## :female_detective: Areas of Interest
 
 - Internet of Things
-- Embedded Systems
 - Edge IA
 - TinyML
 
 ## 🔭 Research Projects
-- [INDT] ***IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
-  - Lahis Almeida at al. BTSYM'2023 - Brasilian Technology Symposium.
-- [UNICAMP] ***LoRaWAN Infrastructure for Urban Waste Management: a simulation study*** (2023)
+- [INDT] - ***IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
+  - Lahis Almeida et al. BTSYM'2023 - Brasilian Technology Symposium, Campinas, Brasil.
+- [UNICAMP] - ***LoRaWAN Infrastructure for Urban Waste Management: a simulation study*** (2023)
   - L. Almeida, Marianna G. Campos and J. F. Borin. In proccedings of *9th World Forum on Internet of Things (WFIoT)*, Aveiro, Portugal. IEEE, 2023.
-- [UNICAMP] ***Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN*** (2021)
-  - L. Almeida and J. F. Borin. 2021. Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN. In proccedings of V Workshop de Computação Urbana, agosto 16, 2021, Evento Online, Brasil. SBC, Porto Alegre, Brasil, 154-167.
+- [UNICAMP] - ***Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN*** (2021)
+  - L. Almeida and J. F. Borin. 2021. Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN. In proccedings of V Workshop de Computação Urbana (CoURB) 2021 SBC, Porto Alegre, Brasil.
 
 
 ##  :books: Media: Blog Posts and Projects
