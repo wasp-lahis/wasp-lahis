@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 
 ## :woman_factory_worker: About me
 
-I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
-
-Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRAWAN), and I work at INDT as Embedded Software Developer.
+I'm a Computer Engineer and Msc. in Computer Science. I have experience in Internet of Things and Embedded Systems. Currently, I work at INDT as Embedded Software Developer.
 
 
 ## :female_detective: Areas of Interest
@@ -25,6 +23,8 @@ Currently, I'm Master degree candidate at Unicamp Computer Institute, developing
 - TinyML
 
 ## 🔭 Research Projects
+- [INDT] - ***Measurement of Communication Performance Between 5G Devices in a 5G SA Network*** (2024)
+  - Álef Souto, Lahis Almeida et al. Trilha de Inovação e Interação com a Indústria - SBRC, Niteroi-RJ, Brasil.
 - [INDT] - ***IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
   - Lahis Almeida et al. BTSYM'2023 - Brasilian Technology Symposium, Campinas, Brasil.
 - [UNICAMP] - ***LoRaWAN Infrastructure for Urban Waste Management: a simulation study*** (2023)
