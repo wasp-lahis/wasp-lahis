@@ -25,13 +25,12 @@ I'm a Computer Engineer and Msc. in Computer Science. I have experience in Inter
 ## 🔭 Research Projects
 - [INDT] - ***Measurement of Communication Performance Between 5G Devices in a 5G SA Network*** (2024)
   - Álef Souto, Lahis Almeida et al. Trilha de Inovação e Interação com a Indústria - SBRC, Niteroi-RJ, Brasil.
+- [UNICAMP] - ***On the Simulation of LoRaWAN Networks: A Focus on Reproducible Parameter Configuration***(2024)
+  - Marianna G. Campos, L. Almeida et al. Computer Networks and Communications, 2(1), 148–171.
 - [INDT] - ***IoT platform to monitor industrial machines and perform PdM ate the EGDE: A case study*** (2023)
   - Lahis Almeida et al. BTSYM'2023 - Brasilian Technology Symposium, Campinas, Brasil.
 - [UNICAMP] - ***LoRaWAN Infrastructure for Urban Waste Management: a simulation study*** (2023)
   - L. Almeida, Marianna G. Campos and J. F. Borin. In proccedings of *9th World Forum on Internet of Things (WFIoT)*, Aveiro, Portugal. IEEE, 2023.
-- [UNICAMP] - ***Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN*** (2021)
-  - L. Almeida and J. F. Borin. 2021. Plataforma Inteligente e Sustentável para Coleta de Resíduos baseada em IoT e LPWAN. In proccedings of V Workshop de Computação Urbana (CoURB) 2021 SBC, Porto Alegre, Brasil.
-
 
 ##  :books: Media: Blog Posts and Projects
 
