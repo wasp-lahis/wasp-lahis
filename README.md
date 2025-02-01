@@ -23,6 +23,8 @@ I'm a Computer Engineer and Msc. in Computer Science. I have experience in Inter
 - TinyML
 
 ## 🔭 Research Projects
+- [INDT] - ***A Hybrid IoT Asset Tracker Based on LoRaWAN and LEO Networks for the Amazon Region*** (2025)
+  - Lahis Almeida, Luis Pereira, Luca Quiriconi et al. 2025 IEEE Latin Conference on IoT - LCIoT, Fortaleza-CE, Brasil.
 - [INDT] - ***Measurement of Communication Performance Between 5G Devices in a 5G SA Network*** (2024)
   - Álef Souto, Lahis Almeida et al. Trilha de Inovação e Interação com a Indústria - SBRC, Niteroi-RJ, Brasil.
 - [UNICAMP] - ***On the Simulation of LoRaWAN Networks: A Focus on Reproducible Parameter Configuration***(2024)
